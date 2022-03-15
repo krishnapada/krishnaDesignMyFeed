@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#f2f2f2">
+
+    <LinearLayout
+        android:id="@+id/ly_no_data_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:orientation="vertical"
+        android:padding="@dimen/_25sdp"
+        android:visibility="visible">
+
+        <ImageView
+            android:id="@+id/image_profile"
+            android:layout_width="@dimen/_110sdp"
+            android:layout_height="@dimen/_59sdp"
+            android:layout_gravity="center"
+            android:layout_marginBottom="@dimen/_15sdp"
+            android:background="@drawable/offline3"
+            android:visibility="visible" />
+
+        <TextView
+            android:id="@+id/tv_message"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="No internet connection. Make sure WIFI or CELLULAR DATA is turned on\n than try again"
+            android:textColor="@color/black"
+            android:textSize="@dimen/_14ssp"
+            android:textStyle="bold"
+            android:visibility="visible" />
+
+        <TextView
+            android:id="@+id/tv_refresh"
+            android:layout_width="@dimen/_110sdp"
+            android:layout_height="@dimen/_35sdp"
+            android:layout_marginTop="@dimen/_15sdp"
+            android:background="@drawable/batton_bg"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:text="Retry"
+            android:textColor="#ffffff"
+            android:textSize="@dimen/_16ssp"
+            android:textStyle="bold"
+            android:visibility="visible" />
+
+    </LinearLayout>
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/_15sdp"
+        android:layout_gravity="center"
+        android:paddingBottom="@dimen/_15sdp"
+        android:gravity="center"
+        android:layout_alignParentBottom="true"
+        android:text="You're offline!"
+        android:textColor="#333333"
+        android:textSize="@dimen/_12ssp"
+        android:layout_centerInParent="true"
+        android:textStyle="normal"
+        android:visibility="gone" />
+
+    <ImageView
+        android:layout_width="@dimen/_95sdp"
+        android:layout_height="@dimen/_89sdp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="@dimen/_15sdp"
+        android:layout_margin="@dimen/_15sdp"
+        android:layout_gravity="center"
+        android:layout_centerInParent="true"
+        android:paddingBottom="@dimen/_15sdp"
+        android:gravity="center"
+        android:background="@drawable/offline1"
+        android:visibility="visible" />
+
+</RelativeLayout>

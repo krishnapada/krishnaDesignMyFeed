@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "79329725170",
+    "firebase_url": "https://designmyfeed.firebaseio.com",
+    "project_id": "designmyfeed",
+    "storage_bucket": "designmyfeed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79329725170:android:2dcc58e05bfff7f596de6b",
+        "android_client_info": {
+          "package_name": "com.designmyfeed.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79329725170-45q1d318qm37je4v6ifdfh5kpb5r1nkd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGhpKkgjXJzhH5RedQuHJ_F1OcNF1uvTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79329725170-45q1d318qm37je4v6ifdfh5kpb5r1nkd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

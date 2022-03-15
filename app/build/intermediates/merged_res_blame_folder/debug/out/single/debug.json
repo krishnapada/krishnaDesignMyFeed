@@ -1,0 +1,178 @@
+[
+    {
+        "merged": "/Users/krishna/Documents/AndroidParttimeWorkspace/app.designmyfeed.com/app/build/intermediates/res/merged/debug/drawable_drawer_item_background.xml.flat",
+        "source": "/Users/krishna/Documents/AndroidParttimeWorkspace/app.designmyfeed.com/app/src/main/res/drawable/drawer_item_background.xml"
+    },
+    {
+        "merged": "/Users/krishna/Documents/AndroidParttimeWorkspace/app.designmyfeed.com/app/build/intermediates/res/merged/debug/drawable-xhdpi_offline1.png.flat",
+        "source": "/Users/krishna/Documents/AndroidParttimeWorkspace/app.designmyfeed.com/app/src/main/res/drawable-xhdpi/offline1.png"
+    },
+    {
+        "merged": "/Users/krishna/Documents/AndroidParttimeWorkspace/app.designmyfeed.com/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/krishna/Documents/AndroidParttimeWorkspace/app.designmyfeed.com/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/krishna/Documents/AndroidParttimeWorkspace/app.designmyfeed.com/app/build/intermediates/res/merged/debug/drawable-nodpi_vert_loading.png.flat",
+        "source": "/Users/krishna/Documents/AndroidParttimeWorkspace/app.designmyfeed.com/app/src/main/res/drawable-nodpi/vert_loading.png"
+    },
+    {
+        "merged": "/Users/krishna/Documents/AndroidParttimeWorkspace/app.designmyfeed.com/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/krishna/Documents/AndroidParttimeWorkspace/app.designmyfeed.com/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/krishna/Documents/AndroidParttimeWorkspace/app.designmyfeed.com/app/build/intermediates/res/merged/debug/layout_no_connection.xml.flat",
+        "source": "/Users/krishna/Documents/AndroidParttimeWorkspace/app.designmyfeed.com/app/src/main/res/layout/no_connection.xml"
+    },
+    {
+        "merged": "/Users/krishna/Documents/AndroidParttimeWorkspace/app.designmyfeed.com/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_action_share.png.flat",
+        "source": "/Users/krishna/Documents/AndroidParttimeWorkspace/app.designmyfeed.com/app/src/main/res/drawable-xhdpi/ic_action_share.png"
+    },
+    {
+        "merged": "/Users/krishna/Documents/AndroidParttimeWorkspace/app.designmyfeed.com/app/build/intermediates/res/merged/debug/drawable_close_btn.xml.flat",
+        "source": "/Users/krishna/Documents/AndroidParttimeWorkspace/app.designmyfeed.com/app/src/main/res/drawable/close_btn.xml"
+    },
+    {
+        "merged": "/Users/krishna/Documents/AndroidParttimeWorkspace/app.designmyfeed.com/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_share.png.flat",
+        "source": "/Users/krishna/Documents/AndroidParttimeWorkspace/app.designmyfeed.com/app/src/main/res/drawable-xhdpi/ic_share.png"
+    },
+    {
+        "merged": "/Users/krishna/Documents/AndroidParttimeWorkspace/app.designmyfeed.com/app/build/intermediates/res/merged/debug/drawable_alert_round.xml.flat",
+        "source": "/Users/krishna/Documents/AndroidParttimeWorkspace/app.designmyfeed.com/app/src/main/res/drawable/alert_round.xml"
+    },
+    {
+        "merged": "/Users/krishna/Documents/AndroidParttimeWorkspace/app.designmyfeed.com/app/build/intermediates/res/merged/debug/drawable_drawer_item_background_selected.xml.flat",
+        "source": "/Users/krishna/Documents/AndroidParttimeWorkspace/app.designmyfeed.com/app/src/main/res/drawable/drawer_item_background_selected.xml"
+    },
+    {
+        "merged": "/Users/krishna/Documents/AndroidParttimeWorkspace/app.designmyfeed.com/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_action_home.png.flat",
+        "source": "/Users/krishna/Documents/AndroidParttimeWorkspace/app.designmyfeed.com/app/src/main/res/drawable-mdpi/ic_action_home.png"
+    },
+    {
+        "merged": "/Users/krishna/Documents/AndroidParttimeWorkspace/app.designmyfeed.com/app/build/intermediates/res/merged/debug/layout_fragment_observable_web_view.xml.flat",
+        "source": "/Users/krishna/Documents/AndroidParttimeWorkspace/app.designmyfeed.com/app/src/main/res/layout/fragment_observable_web_view.xml"
+    },
+    {
+        "merged": "/Users/krishna/Documents/AndroidParttimeWorkspace/app.designmyfeed.com/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/krishna/Documents/AndroidParttimeWorkspace/app.designmyfeed.com/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/krishna/Documents/AndroidParttimeWorkspace/app.designmyfeed.com/app/build/intermediates/res/merged/debug/drawable_share_btn.xml.flat",
+        "source": "/Users/krishna/Documents/AndroidParttimeWorkspace/app.designmyfeed.com/app/src/main/res/drawable/share_btn.xml"
+    },
+    {
+        "merged": "/Users/krishna/Documents/AndroidParttimeWorkspace/app.designmyfeed.com/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_action_share.png.flat",
+        "source": "/Users/krishna/Documents/AndroidParttimeWorkspace/app.designmyfeed.com/app/src/main/res/drawable-xxhdpi/ic_action_share.png"
+    },
+    {
+        "merged": "/Users/krishna/Documents/AndroidParttimeWorkspace/app.designmyfeed.com/app/build/intermediates/res/merged/debug/drawable_batton_bg.xml.flat",
+        "source": "/Users/krishna/Documents/AndroidParttimeWorkspace/app.designmyfeed.com/app/src/main/res/drawable/batton_bg.xml"
+    },
+    {
+        "merged": "/Users/krishna/Documents/AndroidParttimeWorkspace/app.designmyfeed.com/app/build/intermediates/res/merged/debug/drawable-xhdpi_offline3.png.flat",
+        "source": "/Users/krishna/Documents/AndroidParttimeWorkspace/app.designmyfeed.com/app/src/main/res/drawable-xhdpi/offline3.png"
+    },
+    {
+        "merged": "/Users/krishna/Documents/AndroidParttimeWorkspace/app.designmyfeed.com/app/build/intermediates/res/merged/debug/drawable-xxhdpi_cancel.png.flat",
+        "source": "/Users/krishna/Documents/AndroidParttimeWorkspace/app.designmyfeed.com/app/src/main/res/drawable-xxhdpi/cancel.png"
+    },
+    {
+        "merged": "/Users/krishna/Documents/AndroidParttimeWorkspace/app.designmyfeed.com/app/build/intermediates/res/merged/debug/xml_file_provider_path.xml.flat",
+        "source": "/Users/krishna/Documents/AndroidParttimeWorkspace/app.designmyfeed.com/app/src/main/res/xml/file_provider_path.xml"
+    },
+    {
+        "merged": "/Users/krishna/Documents/AndroidParttimeWorkspace/app.designmyfeed.com/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_action_home.png.flat",
+        "source": "/Users/krishna/Documents/AndroidParttimeWorkspace/app.designmyfeed.com/app/src/main/res/drawable-xxhdpi/ic_action_home.png"
+    },
+    {
+        "merged": "/Users/krishna/Documents/AndroidParttimeWorkspace/app.designmyfeed.com/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_action_share.png.flat",
+        "source": "/Users/krishna/Documents/AndroidParttimeWorkspace/app.designmyfeed.com/app/src/main/res/drawable-hdpi/ic_action_share.png"
+    },
+    {
+        "merged": "/Users/krishna/Documents/AndroidParttimeWorkspace/app.designmyfeed.com/app/build/intermediates/res/merged/debug/drawable-xhdpi_play.png.flat",
+        "source": "/Users/krishna/Documents/AndroidParttimeWorkspace/app.designmyfeed.com/app/src/main/res/drawable-xhdpi/play.png"
+    },
+    {
+        "merged": "/Users/krishna/Documents/AndroidParttimeWorkspace/app.designmyfeed.com/app/build/intermediates/res/merged/debug/layout_share_activity.xml.flat",
+        "source": "/Users/krishna/Documents/AndroidParttimeWorkspace/app.designmyfeed.com/app/src/main/res/layout/share_activity.xml"
+    },
+    {
+        "merged": "/Users/krishna/Documents/AndroidParttimeWorkspace/app.designmyfeed.com/app/build/intermediates/res/merged/debug/menu_menu.xml.flat",
+        "source": "/Users/krishna/Documents/AndroidParttimeWorkspace/app.designmyfeed.com/app/src/main/res/menu/menu.xml"
+    },
+    {
+        "merged": "/Users/krishna/Documents/AndroidParttimeWorkspace/app.designmyfeed.com/app/build/intermediates/res/merged/debug/drawable_round_right.xml.flat",
+        "source": "/Users/krishna/Documents/AndroidParttimeWorkspace/app.designmyfeed.com/app/src/main/res/drawable/round_right.xml"
+    },
+    {
+        "merged": "/Users/krishna/Documents/AndroidParttimeWorkspace/app.designmyfeed.com/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_action_home.png.flat",
+        "source": "/Users/krishna/Documents/AndroidParttimeWorkspace/app.designmyfeed.com/app/src/main/res/drawable-xxxhdpi/ic_action_home.png"
+    },
+    {
+        "merged": "/Users/krishna/Documents/AndroidParttimeWorkspace/app.designmyfeed.com/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/krishna/Documents/AndroidParttimeWorkspace/app.designmyfeed.com/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/krishna/Documents/AndroidParttimeWorkspace/app.designmyfeed.com/app/build/intermediates/res/merged/debug/drawable_myprogressbar.xml.flat",
+        "source": "/Users/krishna/Documents/AndroidParttimeWorkspace/app.designmyfeed.com/app/src/main/res/drawable/myprogressbar.xml"
+    },
+    {
+        "merged": "/Users/krishna/Documents/AndroidParttimeWorkspace/app.designmyfeed.com/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_action_share.png.flat",
+        "source": "/Users/krishna/Documents/AndroidParttimeWorkspace/app.designmyfeed.com/app/src/main/res/drawable-mdpi/ic_action_share.png"
+    },
+    {
+        "merged": "/Users/krishna/Documents/AndroidParttimeWorkspace/app.designmyfeed.com/app/build/intermediates/res/merged/debug/layout_connectivity_check.xml.flat",
+        "source": "/Users/krishna/Documents/AndroidParttimeWorkspace/app.designmyfeed.com/app/src/main/res/layout/connectivity_check.xml"
+    },
+    {
+        "merged": "/Users/krishna/Documents/AndroidParttimeWorkspace/app.designmyfeed.com/app/build/intermediates/res/merged/debug/drawable-nodpi_signal_wifi_off.png.flat",
+        "source": "/Users/krishna/Documents/AndroidParttimeWorkspace/app.designmyfeed.com/app/src/main/res/drawable-nodpi/signal_wifi_off.png"
+    },
+    {
+        "merged": "/Users/krishna/Documents/AndroidParttimeWorkspace/app.designmyfeed.com/app/build/intermediates/res/merged/debug/drawable-nodpi_sad_cloud.png.flat",
+        "source": "/Users/krishna/Documents/AndroidParttimeWorkspace/app.designmyfeed.com/app/src/main/res/drawable-nodpi/sad_cloud.png"
+    },
+    {
+        "merged": "/Users/krishna/Documents/AndroidParttimeWorkspace/app.designmyfeed.com/app/build/intermediates/res/merged/debug/drawable-xhdpi_placeholder.png.flat",
+        "source": "/Users/krishna/Documents/AndroidParttimeWorkspace/app.designmyfeed.com/app/src/main/res/drawable-xhdpi/placeholder.png"
+    },
+    {
+        "merged": "/Users/krishna/Documents/AndroidParttimeWorkspace/app.designmyfeed.com/app/build/intermediates/res/merged/debug/drawable_drawer_color.xml.flat",
+        "source": "/Users/krishna/Documents/AndroidParttimeWorkspace/app.designmyfeed.com/app/src/main/res/drawable/drawer_color.xml"
+    },
+    {
+        "merged": "/Users/krishna/Documents/AndroidParttimeWorkspace/app.designmyfeed.com/app/build/intermediates/res/merged/debug/menu_activity_main_drawer.xml.flat",
+        "source": "/Users/krishna/Documents/AndroidParttimeWorkspace/app.designmyfeed.com/app/src/main/res/menu/activity_main_drawer.xml"
+    },
+    {
+        "merged": "/Users/krishna/Documents/AndroidParttimeWorkspace/app.designmyfeed.com/app/build/intermediates/res/merged/debug/drawable-xhdpi_banner.png.flat",
+        "source": "/Users/krishna/Documents/AndroidParttimeWorkspace/app.designmyfeed.com/app/src/main/res/drawable-xhdpi/banner.png"
+    },
+    {
+        "merged": "/Users/krishna/Documents/AndroidParttimeWorkspace/app.designmyfeed.com/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_action_home.png.flat",
+        "source": "/Users/krishna/Documents/AndroidParttimeWorkspace/app.designmyfeed.com/app/src/main/res/drawable-hdpi/ic_action_home.png"
+    },
+    {
+        "merged": "/Users/krishna/Documents/AndroidParttimeWorkspace/app.designmyfeed.com/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/krishna/Documents/AndroidParttimeWorkspace/app.designmyfeed.com/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/krishna/Documents/AndroidParttimeWorkspace/app.designmyfeed.com/app/build/intermediates/res/merged/debug/drawable-xhdpi_offline2.png.flat",
+        "source": "/Users/krishna/Documents/AndroidParttimeWorkspace/app.designmyfeed.com/app/src/main/res/drawable-xhdpi/offline2.png"
+    },
+    {
+        "merged": "/Users/krishna/Documents/AndroidParttimeWorkspace/app.designmyfeed.com/app/build/intermediates/res/merged/debug/color_tab_text_color.xml.flat",
+        "source": "/Users/krishna/Documents/AndroidParttimeWorkspace/app.designmyfeed.com/app/src/main/res/color/tab_text_color.xml"
+    },
+    {
+        "merged": "/Users/krishna/Documents/AndroidParttimeWorkspace/app.designmyfeed.com/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_action_home.png.flat",
+        "source": "/Users/krishna/Documents/AndroidParttimeWorkspace/app.designmyfeed.com/app/src/main/res/drawable-xhdpi/ic_action_home.png"
+    },
+    {
+        "merged": "/Users/krishna/Documents/AndroidParttimeWorkspace/app.designmyfeed.com/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_action_share.png.flat",
+        "source": "/Users/krishna/Documents/AndroidParttimeWorkspace/app.designmyfeed.com/app/src/main/res/drawable-xxxhdpi/ic_action_share.png"
+    },
+    {
+        "merged": "/Users/krishna/Documents/AndroidParttimeWorkspace/app.designmyfeed.com/app/build/intermediates/res/merged/debug/layout_drawer_header.xml.flat",
+        "source": "/Users/krishna/Documents/AndroidParttimeWorkspace/app.designmyfeed.com/app/src/main/res/layout/drawer_header.xml"
+    }
+]

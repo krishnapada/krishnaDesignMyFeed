@@ -1,0 +1,78 @@
+com/designmyfeed/app/util/GetFileInfo.java
+ com.designmyfeed.app.util.GetFileInfo
+com/designmyfeed/app/widget/SlidingTabStrip.java
+ com.designmyfeed.app.widget.SlidingTabStrip
+ com.designmyfeed.app.widget.SlidingTabStrip$1
+ com.designmyfeed.app.widget.SlidingTabStrip$SimpleTabColorizer
+com/designmyfeed/app/Config.java
+ com.designmyfeed.app.Config
+com/designmyfeed/app/activity/Share_activity.java
+ com.designmyfeed.app.activity.Share_activity
+ com.designmyfeed.app.activity.Share_activity$1
+ com.designmyfeed.app.activity.Share_activity$2
+ com.designmyfeed.app.activity.Share_activity$3
+com/designmyfeed/app/util/ThemeUtils.java
+ com.designmyfeed.app.util.ThemeUtils
+com/designmyfeed/app/adapter/NavigationAdapter.java
+ com.designmyfeed.app.adapter.NavigationAdapter
+com/designmyfeed/app/drawer/menu/Action.java
+ com.designmyfeed.app.drawer.menu.Action
+com/designmyfeed/app/widget/webview/WebToAppChromeClient.java
+ com.designmyfeed.app.widget.webview.WebToAppChromeClient
+com/designmyfeed/app/widget/SwipeableViewPager.java
+ com.designmyfeed.app.widget.SwipeableViewPager
+com/designmyfeed/app/drawer/menu/SimpleMenu.java
+ com.designmyfeed.app.drawer.menu.SimpleMenu
+com/designmyfeed/app/widget/SlidingTabLayout.java
+ com.designmyfeed.app.widget.SlidingTabLayout
+ com.designmyfeed.app.widget.SlidingTabLayout$1
+ com.designmyfeed.app.widget.SlidingTabLayout$InternalViewPagerListener
+ com.designmyfeed.app.widget.SlidingTabLayout$TabClickListener
+ com.designmyfeed.app.widget.SlidingTabLayout$TabColorizer
+com/designmyfeed/app/adapter/CacheFragmentStatePagerAdapter.java
+ com.designmyfeed.app.adapter.CacheFragmentStatePagerAdapter
+com/designmyfeed/app/widget/webview/WebToAppWebClient.java
+ com.designmyfeed.app.widget.webview.WebToAppWebClient
+ com.designmyfeed.app.widget.webview.WebToAppWebClient$1
+ com.designmyfeed.app.widget.webview.WebToAppWebClient$2
+com/designmyfeed/app/BuildConfig.java
+ com.designmyfeed.app.BuildConfig
+com/designmyfeed/app/widget/AdvancedWebView.java
+ com.designmyfeed.app.widget.AdvancedWebView
+ com.designmyfeed.app.widget.AdvancedWebView$1
+ com.designmyfeed.app.widget.AdvancedWebView$2
+ com.designmyfeed.app.widget.AdvancedWebView$3
+ com.designmyfeed.app.widget.AdvancedWebView$Browsers
+ com.designmyfeed.app.widget.AdvancedWebView$Listener
+ com.designmyfeed.app.widget.AdvancedWebView$ScrollInterface
+com/designmyfeed/app/drawer/menu/SimpleSubMenu.java
+ com.designmyfeed.app.drawer.menu.SimpleSubMenu
+com/designmyfeed/app/drawer/menu/SimpleAbstractMenu.java
+ com.designmyfeed.app.drawer.menu.SimpleAbstractMenu
+ com.designmyfeed.app.drawer.menu.SimpleAbstractMenu$1
+com/designmyfeed/app/widget/scrollable/ToolbarWebViewScrollListener.java
+ com.designmyfeed.app.widget.scrollable.ToolbarWebViewScrollListener
+com/designmyfeed/app/fragment/WebFragment.java
+ com.designmyfeed.app.fragment.WebFragment
+ com.designmyfeed.app.fragment.WebFragment$1
+ com.designmyfeed.app.fragment.WebFragment$2
+ com.designmyfeed.app.fragment.WebFragment$3
+com/designmyfeed/app/App.java
+ com.designmyfeed.app.App
+ com.designmyfeed.app.App$1
+ com.designmyfeed.app.App$NotificationHandler
+com/designmyfeed/app/activity/Connectivity_check.java
+ com.designmyfeed.app.activity.Connectivity_check
+ com.designmyfeed.app.activity.Connectivity_check$1
+com/designmyfeed/app/drawer/menu/MenuItemCallback.java
+ com.designmyfeed.app.drawer.menu.MenuItemCallback
+com/designmyfeed/app/activity/MainActivity.java
+ com.designmyfeed.app.activity.MainActivity
+ com.designmyfeed.app.activity.MainActivity$1
+ com.designmyfeed.app.activity.MainActivity$2
+ com.designmyfeed.app.activity.MainActivity$3
+ com.designmyfeed.app.activity.MainActivity$4
+ com.designmyfeed.app.activity.MainActivity$5
+ com.designmyfeed.app.activity.MainActivity$6
+ com.designmyfeed.app.activity.MainActivity$7
+ com.designmyfeed.app.activity.MainActivity$NetworkChangeReceiver

@@ -1,0 +1,66 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/krishna/Documents/AndroidParttimeWorkspace/app.designmyfeed.com/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
+            "map": [
+                {
+                    "source": "/Users/krishna/.gradle/caches/transforms-2/files-2.1/1955be693eb56c1139576e45ec90d484/cardview-1.0.0/res/values-v23/values-v23.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "200"
+                    },
+                    "to": {
+                        "startLines": "52",
+                        "startColumns": "4",
+                        "startOffsets": "3611",
+                        "endLines": "54",
+                        "endColumns": "12",
+                        "endOffsets": "3756"
+                    }
+                },
+                {
+                    "source": "/Users/krishna/.gradle/caches/transforms-2/files-2.1/d38bcf900577a63e0da310b3fe272179/appcompat-1.1.0/res/values-v23/values-v23.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,20,34,35,36,37,41,42,43,44",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,190,325,400,487,1371,2267,2386,2513,2618,2842,2957,3064,3177",
+                        "endLines": "2,3,4,5,19,33,34,35,36,40,41,42,43,47",
+                        "endColumns": "134,134,74,86,12,12,118,126,104,12,114,106,112,12",
+                        "endOffsets": "185,320,395,482,1366,2262,2381,2508,2613,2837,2952,3059,3172,3402"
+                    },
+                    "to": {
+                        "startLines": "6,7,8,9,10,24,38,39,40,41,45,46,47,48",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "259,394,529,604,691,1575,2471,2590,2717,2822,3046,3161,3268,3381",
+                        "endLines": "6,7,8,9,23,37,38,39,40,44,45,46,47,51",
+                        "endColumns": "134,134,74,86,12,12,118,126,104,12,114,106,112,12",
+                        "endOffsets": "389,524,599,686,1570,2466,2585,2712,2817,3041,3156,3263,3376,3606"
+                    }
+                },
+                {
+                    "source": "/Users/krishna/Documents/AndroidParttimeWorkspace/app.designmyfeed.com/app/src/main/res/values-v23/styles.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "215"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "254"
+                    }
+                }
+            ]
+        }
+    ]
+}
